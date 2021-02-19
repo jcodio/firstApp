@@ -8,5 +8,6 @@
 </head>
 <body>
     <h1>This is the second page in the commit process</h1>
+    The best way to predict the future is to create it.
 </body>
 </html>
